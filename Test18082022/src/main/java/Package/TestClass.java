@@ -15,6 +15,7 @@ public class TestClass {
 		driver = new ChromeDriver();
 		driver.get("http://www.google.com");
 		//test if pulled or not
+		//test1
 		//driver.close();
 
 	}
